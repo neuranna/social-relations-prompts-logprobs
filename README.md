@@ -2,7 +2,6 @@ This is a repo for the SouthNLP2024 submission "Log probability scores provide a
 
 OpenReview: https://openreview.net/forum?id=Sr2q50mMob 
 
-Most up-to-date paper version: https://www.dropbox.com/scl/fi/jmta9zjo6ifx464jfb3b8/SouthNLP_2024_logprobs_vs_prompts.pdf?rlkey=4t4ma7qw547n4p8gfopyl2hy4&dl=0 
 
 # Benchmark info
 
